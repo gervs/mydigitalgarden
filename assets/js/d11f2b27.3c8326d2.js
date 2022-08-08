@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmydigitalgarden=self.webpackChunkmydigitalgarden||[]).push([[2897],{8836:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/mydigitalgarden/blog/tags/hola","allTagsPath":"/mydigitalgarden/blog/tags","count":1}')}}]);

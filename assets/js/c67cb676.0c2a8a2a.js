@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmydigitalgarden=self.webpackChunkmydigitalgarden||[]).push([[8965],{8651:a=>{a.exports=JSON.parse('{"permalink":"/mydigitalgarden/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

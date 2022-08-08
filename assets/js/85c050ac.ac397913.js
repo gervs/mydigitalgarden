@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmydigitalgarden=self.webpackChunkmydigitalgarden||[]).push([[3416],{8288:e=>{e.exports=JSON.parse('{"permalink":"/mydigitalgarden/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

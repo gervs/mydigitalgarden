@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmydigitalgarden=self.webpackChunkmydigitalgarden||[]).push([[5924],{386:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/mydigitalgarden/blog/tags/docusaurus","allTagsPath":"/mydigitalgarden/blog/tags","count":4}')}}]);
