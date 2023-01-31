@@ -4,13 +4,13 @@ sidebar_position: 2
 
 # This is all about M365 Teams - Teams!
 
-Microsoft 365 Connectivity Test 
-    Reference: 
+## Microsoft 365 Connectivity Test 
+    ### Reference: 
 
-Office 365 IPs and URLs
-    TCP: 443, 80 
-    UDP: 3478, 3479, 3480, 3481
-    Reference: 
+## Office 365 IPs and URLs
+    ### TCP: 443, 80 
+    ### UDP: 3478, 3479, 3480, 3481
+    ### Reference: 
 
 If you need to federate with Skype for Busienss, either on-premises or online, you will need to configure an additional DNS record. 
     DNS record: SRV
